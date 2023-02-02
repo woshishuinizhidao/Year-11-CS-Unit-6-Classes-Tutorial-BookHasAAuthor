@@ -89,3 +89,4 @@ Let's write the Book class.
 
 Write a class called Book. The Book class must conform to the above UML description.
 
+Name : Vanessa Partner : Cherry
